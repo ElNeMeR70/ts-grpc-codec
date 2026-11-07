@@ -1,0 +1,20 @@
+{
+  "name": "ts-grpc-codec",
+  "version": "1.0.0",
+  "description": "gRPC protobuf frame codec with length-prefixed messages",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "grpc", "protobuf", "codec", "networking"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-grpc-codec.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
